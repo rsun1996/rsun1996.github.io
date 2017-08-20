@@ -4,6 +4,6 @@
 
 ###### Renhao Sun
 
-[Project Page ](https://github.com/UO-CIT/p4-rsun1996/tree/master)
+[Project Page ](https://uo-cit.github.io/p4-rsun1996/)
 
 ![Image](images/pic2.jpeg)
