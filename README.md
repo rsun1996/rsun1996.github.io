@@ -2,7 +2,7 @@
 
 ##### CIT 281 Project Pages
 
-###### Renhap Sun
+###### Renhao Sun
 
 [Project Page ](https://github.com/UO-CIT/p4-rsun1996/tree/master)
 
